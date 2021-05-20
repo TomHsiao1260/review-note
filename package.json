@@ -1,0 +1,20 @@
+{
+  "name": "review-note",
+  "version": "0.0.1",
+  "description": "",
+  "home": "https://tomhsiao1260.github.io/review-note/",
+  "scripts": {
+    "dev": "http-server dist",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomHsiao1260/review-note.git"
+  },
+  "author": "Hsiao Yao",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "http-server": "^0.12.3"
+  }
+}
